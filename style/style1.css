@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+#output_div{
+    padding:  200px;
+}
+
+#blue_div{
+    background-color: violet ;
+}
+#add_cities_input{
+  width: 100%;
+}
+#print_cities_button{
+  width: 30%;
+}
+#add_cities_button{
+  width: 30%;
+}
+#logout{
+  width: 100%;
+}

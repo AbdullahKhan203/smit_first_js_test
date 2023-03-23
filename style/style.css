@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.user_name{
+    /* width: 100%; */
+}
+#main_container{
+    background: linear-gradient(rgb(129, 129, 191), rgb(232, 111, 232),rgb(129, 129, 191));
+    height: 100vh;
+}
+#lost_password{
+    margin-left: 20%;
+    color: rgba(214, 178, 178, 0.561);
+    cursor: pointer;
+}
+#login{
+    margin-right: auto;
+    width: 30%;
+}
+#login{
+   
+}
+
+#form{
+   margin-top: 10%;
+}
+input{
+    background-color: rgba(33, 131, 242, 0.656);
+}
+
+
+::placeholder {
+    color: red;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: grey;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: grey;
+  }
